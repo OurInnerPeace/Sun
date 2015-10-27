@@ -1,2 +1,2 @@
 # Sun
-This is our first project, you'll gona love it!
+This is our first project, you'll be gona love it!
